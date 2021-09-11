@@ -1,0 +1,39 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.11f1 (99c7afb366b3) revision 10078127'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19043.1165; Version 2009; 64bit' Language: 'en' Physical Memory: 6082 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+E:\GAME DEV\Unity\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+E:/GAME DEV/GAMES(Self)/Multiplayer(Tutorial)
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+52420
+Successfully changed project path to: E:/GAME DEV/GAMES(Self)/Multiplayer(Tutorial)
+E:/GAME DEV/GAMES(Self)/Multiplayer(Tutorial)
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 61.96 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.11f1 (99c7afb366b3)
+[Subsystems] Discovering subsystems at path E:/GAME DEV/Unity/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/GAME DEV/GAMES(Self)/Multiplayer(Tutorial)/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Radeon RX 560X Series (ID=0x67ef)
+    Vendor:   
+    VRAM:     4076 MB
+    Driver:   27.20.22001.14011
+Initialize mono
+Mono path[0] = 'E:/GAME DEV/Unity/Editor/Data/Managed'
+Mono path[1] = 'E:/GAME DEV/Unity/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'E:/GAME DEV/Unity/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56820
+Begin MonoManager ReloadAssembly
